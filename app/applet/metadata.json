@@ -1,0 +1,6 @@
+{
+  "name": "ThaiSar Unit 5 · အချိန်",
+  "description": "Thai listening and speaking: Unit 5 Time for Myanmar learners",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
