@@ -361,7 +361,7 @@ export default function App() {
           <div className="brandwrap">
             <img
               className="school-logo"
-              src="/school-logo.svg"
+              src="https://lh3.googleusercontent.com/pw/AP1GczOgaajYlB0tna2h3tHcz5qkUYVKilPtE-iG2iI9HhTjmgxOtQoBcU3Q0L6qnm8euJIuRd81RCA6-1ya5D7I0ze4zn8xOKDgBqbf75rqMXMWANWcQrE=w2400"
               onError={e => {
                 e.currentTarget.src = '/school-logo.png';
               }}
